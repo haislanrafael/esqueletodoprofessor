@@ -2,7 +2,7 @@
   margin: 0;
   padding: 0;
 } */
-
+/*
 body {
   font-family: Merriweather, serif;
 }
@@ -34,7 +34,12 @@ h1,h2, h3, h4, h5, h6{
   font-family: "Work Sans", sans-serif;
 }
 .score, .tag,#featured{   /* seletor de classe id todos acessiveis, pasta colocar a virgula para acessalos (modificalos) todos juntos.*/
-  background-color: brown;
-  color: white;
+ /* background-color: brown;
   padding: 5px;
-}
+}  
+ */ 
+ li span{             /* seletor de filho, li span acessa o span que esta dentro do li */
+  color: grey;   
+ }
+
+ 
