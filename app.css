@@ -38,8 +38,31 @@ h1,h2, h3, h4, h5, h6{
   padding: 5px;
 }  
  */ 
- li span{             /* seletor de filho, li span acessa o span que esta dentro do li */
-  color: grey;   
+ /*li span{             /* seletor de filho, li span acessa o span que esta dentro do li */
+  /*color: grey; /*  
  }
+span {
+  color: aqua;
+ }
+  div > span {
+  color: aqua;
+ }
+  h2 {
+  color: blue;
+}
+ }
+
+ div > h2 {
+  color: blue;
+}
+  
+a.tag {
+  color: aqua;
+ }
+
+ */
+
+
+
 
  
