@@ -1,68 +1,30 @@
-/* * {
-  margin: 0;
-  padding: 0;
-} */
-/*
-body {
-  font-family: Merriweather, serif;
-}
-
-p {
-  color: purple;
-}
-
-.tag {
-  color: rgb(156, 111, 28);
-}
-
-#featured {
-  color: gold;
-}
-
-input[type="number"] {
-  background-color: gold;
-}
-
-a[href*="wiki"] {
-  color: cyan;
-}
-
-a[href^="#"] {
-  color: darkviolet;
-}
-h1,h2, h3, h4, h5, h6{
-  font-family: "Work Sans", sans-serif;
-}
-.score, .tag,#featured{   /* seletor de classe id todos acessiveis, pasta colocar a virgula para acessalos (modificalos) todos juntos.*/
- /* background-color: brown;
-  padding: 5px;
-}  
- */ 
- /*li span{             /* seletor de filho, li span acessa o span que esta dentro do li */
-  /*color: grey; /*  
- }
-span {
-  color: aqua;
- }
-  div > span {
-  color: aqua;
- }
-  h2 {
-  color: blue;
-}
- }
-
- div > h2 {
-  color: blue;
-}
+.box{
+  width: 500px;
+  height: 380px;
+  border:  1px solid  black;
+  margin: 5% auto;
+  box-shadow:3px 10px 94px 0px rgba(148, 18, 204, 0.75);
+  display: block;
+   font-family: "Space Mono", monospace;
+  font-weight: 700;
+  font-style: italic;
   
-a.tag {
-  color: aqua;
- }
+}
+.titulo{
+  text-align: center;
+  display: block;
+  font-family: "Love Light";
+  font-weight: 700;
+  font-style: italic;
+  
+}
 
- */
+.paragrafo{
+  text-align: center;
+  display: block;
+  font-family: "Love Light";
+  font-weight: 700;
+  font-style: italic;
+  font-size: 40px;
+}
 
-
-
-
- 
