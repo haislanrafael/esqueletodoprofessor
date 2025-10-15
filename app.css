@@ -8,6 +8,7 @@
    font-family: "Space Mono", monospace;
   font-weight: 700;
   font-style: italic;
+  overflow: scroll;
   
 }
 .titulo{
